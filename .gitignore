@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# CCS / Eclipse / IDE files
+.ccsproject
+.cproject
+.project
+.settings/
+*.obj
+*.o
+*.out
+*.hex
+*.map
+Debug/
+Release/
+
+# OS generated files
+.DS_Store
+Thumbs.db
